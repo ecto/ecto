@@ -1,1 +1,1 @@
-[](https://raw.githubusercontent.com/ecto/ecto/master/0.jpg)
+![](https://raw.githubusercontent.com/ecto/ecto/master/0.jpg)
